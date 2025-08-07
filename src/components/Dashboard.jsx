@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from './ui/select';
 import StatsCards from './StatsCards';
 import ChartsSection from './ChartsSection';
+import React, { useState, useEffect } from 'react';
 import { fetchDashboardData } from '../services/api';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from './ui/select';
 
 const Dashboard = () => {
-  const [selectedYear, setSelectedYear] = useState('2024');
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [selectedYear, setSelectedYear] = useState('2024');
 
   useEffect(() => {
     const loadData = async () => {
