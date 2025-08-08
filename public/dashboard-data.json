@@ -1,5 +1,5 @@
 {
-  "2023": {
+ "2023": {
     "ano": 2023,
     "parcial": false,
     "total_registros": 1729,
@@ -9,32 +9,85 @@
     },
     "bairros_atendidos": 136,
     "por_mes": [
-      {"Mês": 1,"Mês_Nome": "January","Quantidade": 271},
-      {"Mês": 2,"Mês_Nome": "February","Quantidade": 203},
-      {"Mês": 3,"Mês_Nome": "March","Quantidade": 169},
-      {"Mês": 4,"Mês_Nome": "April","Quantidade": 106},
-      {"Mês": 5,"Mês_Nome": "May","Quantidade": 116},
-      {"Mês": 6,"Mês_Nome": "June","Quantidade": 103},
-      {"Mês": 7,"Mês_Nome": "July","Quantidade": 101},
-      {"Mês": 8,"Mês_Nome": "August","Quantidade": 90},
-      {"Mês": 9,"Mês_Nome": "September","Quantidade": 80},
-      {"Mês": 10,"Mês_Nome": "October","Quantidade": 136
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 271
       },
-      {"Mês": 11,"Mês_Nome": "November","Quantidade": 213},
-      {"Mês": 12,"Mês_Nome": "December","Quantidade": 141}
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 203
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 169
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 106
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 116
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 103
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 101
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 90
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 80
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 136
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 213
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 141
+      }
     ],
     "por_categoria": {
-      "Avaliação de Risco": 1525,
+      "Árvore": 941,
+      "Avaliação de Risco": 543,
       "Deslizamento": 136,
+      "Muro com risco de queda": 38,
       "Dano estrutural": 30,
       "Solicitação de 2ª via de documento": 10,
       "Infiltração": 7,
       "Alagamento": 6,
       "Rompimento de manilha": 6,
-      "Vistoria Técnica": 4,
       "Dano em ponte": 3,
+      "Desinterdição ": 2,
+      "Desinterdição": 2,
+      "Homen Desaparecido": 1,
+      "Afundamento de alvenaria": 1,
+      "Afundamento de via Pública": 1,
       "Demolição": 1,
-      "Busca": 1
+      "afundamento de via pública ": 1
     },
     "por_bairro": {
       "Albuquerque": 78,
@@ -55,9 +108,9 @@
     },
     "por_origem": {
       "Protocolo 199 Emergencial": 613,
-      "Protocolo Presencial": 487,
-      "Protocolo 1Doc": 302,
-      "Protocolo E-Ouve": 327
+      "Protocolo Atendimento": 487,
+      "Protocolo E-Ouve": 327,
+      "Protocolo 1Doc/Documento": 302
     },
     "por_ocorrencia": {
       "Avaliação de Risco": 1525,
