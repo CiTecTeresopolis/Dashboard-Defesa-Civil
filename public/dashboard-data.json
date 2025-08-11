@@ -1,4 +1,121 @@
 {
+
+  "2022": {
+    "ano": 2022,
+    "parcial": false,
+    "total_registros": 979,
+    "periodo": {
+      "inicio": "2022-01-01",
+      "fim": "2022-12-31"
+    },
+    "bairros_atendidos": 103,
+    "por_mes": [
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 175
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 112
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 55
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 79
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 80
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 57
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 60
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 68
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 54
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 56
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 91
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 92
+      }
+    ],
+    "por_categoria": {
+      "Árvore": 617,
+      "Avaliação de Risco": 150,
+      "Deslizamento": 104,
+      "Muro com risco de queda": 32,
+      "Dano estrutural": 27,
+      "Desinterdição": 23,
+      "Infiltração": 8,
+      "Solicitação de 2ª via de documento": 5,
+      "Dano em ponte": 5,
+      "Alagamento": 4,
+      "Rompimento de manilha": 2,
+      "Vistoria em Árvore": 1,
+      " Árvore": 1
+    },
+    "por_bairro": {
+      "Albuquerque": 55,
+      "Quebra Frascos": 51,
+      "Alto": 43,
+      "Meudon": 33,
+      "Várzea": 33,
+      "Granja Guarani": 31,
+      "Bom Retiro": 30,
+      "Posse": 30,
+      "Parque do Imbuí": 29,
+      "Santa Cecília": 27
+    },
+    "por_area": {
+      "1º Distrito": 859,
+      "3º Distrito": 78,
+      "2º Distrito": 42
+    },
+    "por_origem": {
+      "Protocolo 199 Emergencial": 384,
+      "Protocolo E-Ouve": 266,
+      "Protocolo Presencial": 224,
+      "Documento": 105
+    },
+    "por_ocorrencia": {
+      "Avaliação de Risco": 786,
+      "Vistoria Técnica": 188,
+      "Solicitação de 2ª via de documento": 5
+    }
+  },
+
  "2023": {
     "ano": 2023,
     "parcial": false,
