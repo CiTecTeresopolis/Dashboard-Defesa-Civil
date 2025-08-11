@@ -1,4 +1,119 @@
 {
+  "2021": {
+    "ano": 2021,
+    "parcial": false,
+    "total_registros": 836,
+    "periodo": {
+      "inicio": "2021-01-01",
+      "fim": "2021-12-31"
+    },
+    "bairros_atendidos": 102,
+    "por_mes": [
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 102
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 70
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 68
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 24
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 64
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 43
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 55
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 60
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 75
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 84
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 121
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 70
+      }
+    ],
+    "por_categoria": {
+      "Árvore": 547,
+      "Avaliação de Risco": 185,
+      "Deslizamento": 47,
+      "Muro com risco de queda": 26,
+      "Vistoria para Desinterdição": 13,
+      "Recadastramento": 6,
+      "Dano estrutural": 5,
+      "Infiltração": 3,
+      "Rompimento de manilha": 2,
+      "Solicitação de 2ª via de documento": 1,
+      "Dano em ponte": 1
+    },
+    "por_bairro": {
+      "Albuquerque": 44,
+      "Várzea": 38,
+      "Parque do Imbuí": 35,
+      "Quebra Frascos": 29,
+      "Meudon": 28,
+      "Barra do Imbuí": 26,
+      "Alto": 25,
+      "Carlos Guinle": 25,
+      "Bom Retiro": 25,
+      "Vargem Grande": 25
+    },
+    "por_area": {
+      "1º Distrito": 680,
+      "3º Distrito": 107,
+      "2º Distrito": 49
+    },
+    "por_origem": {
+      "Protocolo 199 Emergencial": 321,
+      "Protocolo Presencial": 211,
+      "Protocolo E-Ouve": 183,
+      "Protocolo 1Doc/Documento": 121
+    },
+    "por_ocorrencia": {
+      "Vistoria em Árvore": 547,
+      "Vistoria Técnica": 263,
+      "Vistoria p/Desinterdição": 19,
+      "Recadastramento": 6,
+      "Solicitação de 2ª via de documento": 1
+    }
+  },
 
   "2022": {
     "ano": 2022,
