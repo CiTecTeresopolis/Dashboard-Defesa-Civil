@@ -51,18 +51,18 @@ const Dashboard = () => {
       {/* Header */}
       <div className="dashboard-header text-white py-8">
         <div className="max-w-7xl mx-auto px-6">
-         <div className="flex flex-col md:flex-row md:items-center md:justify-between">
+          <div className="flex flex-col md:flex-row md:items-center md:justify-between">
             <div className="flex flex-col md:flex-row items-center gap-6">
               {/* Logo SVG - Tamanho maior */}
               <div className="flex-shrink-0">
-                <img 
-                  src="/teste.svg" 
-                  alt="Logo Defesa Civil" 
+                <img
+                  src="/teste.svg"
+                  alt="Logo Defesa Civil"
                   className="w-20 sm:w-20 md:h-20 md:w-20 lg:h-50 lg:w-80 object-contain"
                 />
               </div>
               {/* Texto do header */}
-             <div className="text-center md:text-left">
+              <div className="text-center md:text-left">
                 <h1 className=" text-3xl md:text-4xl font-bold mb-2">
                   Defesa Civil de Teresópolis
                 </h1>
