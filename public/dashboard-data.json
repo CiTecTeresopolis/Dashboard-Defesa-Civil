@@ -1,4 +1,112 @@
 {
+  "2018": {
+    "ano": 2018,
+    "parcial": false,
+    "total_registros": 492,
+    "periodo": {
+      "inicio": "2018-01-01",
+      "fim": "2018-12-31"
+    },
+    "bairros_atendidos": 103,
+    "por_mes": [
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 52
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 46
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 75
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 31
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 35
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 28
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 32
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 47
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 37
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 30
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 40
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 39
+      }
+    ],
+    "por_categoria": {
+      "Vistoria Técnica": 256,
+      "Árvore": 197,
+      "Avaliação de Risco": 19,
+      "Recadastramento": 13,
+      "Solicitação de 2ª via de documento": 7
+    },
+    "por_bairro": {
+      "Fischer": 25,
+      "Alto": 24,
+      "Barra do Imbuí": 24,
+      "Granja Florestal": 17,
+      "Várzea": 16,
+      "Granja Guarani": 16,
+      "São Pedro": 15,
+      "Tijuca": 15,
+      "Santa Cecília": 14,
+      "Albuquerque": 13
+    },
+    "por_area": {
+      "1º Distrito": 445,
+      "2º Distrito": 28,
+      "3º Distrito": 19
+    },
+    "por_origem": {
+      "Protocolo Presencial": 389,
+      "Protocolo 199 Emergencial": 96,
+      "Protocolo E-Ouve": 7
+    },
+    "por_ocorrencia": {
+      "Vistoria Técnica": 256,
+      "Avaliação de Risco": 197,
+      "Vistoria para Desinterdição": 19,
+      "Recadastramento": 13,
+      "Solicitação de 2ª via de documento": 7
+    }
+  },
   "2019": {
     "ano": 2019,
     "parcial": false,
