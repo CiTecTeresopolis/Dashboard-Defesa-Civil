@@ -1,4 +1,107 @@
 {
+  "2016": {
+    "ano": 2016,
+    "parcial": false,
+    "total_registros": 900,
+    "periodo": {
+      "inicio": "2016-01-01",
+      "fim": "2016-12-31"
+    },
+    "bairros_atendidos": 110,
+    "por_mes": [
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 191
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 67
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 119
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 42
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 57
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 36
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 49
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 39
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 43
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 37
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 136
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 84
+      }
+    ],
+    "por_categoria": {
+      "Vistoria Técnica": 582,
+      "Árvore": 296,
+      "Avaliação de Risco": 22
+    },
+    "por_bairro": {
+      "Fonte Santa": 43,
+      "Meudon": 33,
+      "Quinta Lebrão": 29,
+      "Pessegueiros": 28,
+      "Granja Florestal": 28,
+      "Alto": 25,
+      "Caleme": 24,
+      "Albuquerque": 23,
+      "Paineiras": 21,
+      "São Pedro": 21
+    },
+    "por_area": {
+      "1º Distrito": 773,
+      "2º Distrito": 84,
+      "3º Distrito": 43
+    },
+    "por_origem": {
+      "Protocolo Presencial": 657,
+      "Protocolo 199 Emergencial": 243
+    },
+    "por_ocorrencia": {
+      "Vistoria Técnica": 582,
+      "Avaliação de Risco": 296,
+      "Vistoria para Desinterdição": 22
+    }
+  },
   "2017": {
     "ano": 2017,
     "parcial": false,
