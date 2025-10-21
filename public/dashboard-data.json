@@ -1,4 +1,119 @@
 {
+  "2019": {
+    "ano": 2019,
+    "parcial": false,
+    "total_registros": 1245,
+    "periodo": {
+      "inicio": "2019-01-01",
+      "fim": "2019-12-31"
+    },
+    "bairros_atendidos": 123,
+    "por_mes": [
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 164
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 152
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 82
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 110
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 91
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 77
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 84
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 93
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 93
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 119
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 117
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 63
+      }
+    ],
+    "por_categoria": {
+      "Árvore": 543,
+      "Avaliação de Risco": 410,
+      "Recadastramento": 120,
+      "Muro com risco de queda": 45,
+      "Deslizamento": 44,
+      "Dano estrutural": 27,
+      "Infiltração": 22,
+      "Rompimento de manilha": 16,
+      "Solicitação de 2ª via de documento": 10,
+      "Dano em ponte": 6,
+      "Alagamento": 2
+    },
+    "por_bairro": {
+      "Caleme": 54,
+      "Corta Vento": 51,
+      "Várzea": 47,
+      "Alto": 44,
+      "Barra do Imbuí": 38,
+      "Albuquerque": 36,
+      "Meudon": 35,
+      "Rosário": 31,
+      "Granja Florestal": 29,
+      "Santa Cecília": 28
+    },
+    "por_area": {
+      "1º Distrito": 1098,
+      "2º Distrito": 79,
+      "3º Distrito": 68
+    },
+    "por_origem": {
+      "Protocolo 1Doc": 507,
+      "Protocolo Presencial": 461,
+      "Protocolo 199 Emergencial": 181,
+      "Protocolo E-Ouve": 96
+    },
+    "por_ocorrencia": {
+      "Avaliação de Risco": 687,
+      "Vistoria Técnica": 394,
+      "Recadastramento": 122,
+      "Vistoria para Desinterdição": 33,
+      "Solicitação de 2ª via de documento": 9
+    }
+  },
   "2020": {
     "ano": 2020,
     "parcial": false,

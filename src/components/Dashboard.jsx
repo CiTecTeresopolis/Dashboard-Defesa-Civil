@@ -77,6 +77,7 @@ const Dashboard = () => {
                   <SelectValue />
                 </SelectTrigger>
                 <SelectContent>
+                  <SelectItem value="2019">2019</SelectItem>
                   <SelectItem value="2020">2020</SelectItem>
                   <SelectItem value="2021">2021</SelectItem>
                   <SelectItem value="2022">2022</SelectItem>
