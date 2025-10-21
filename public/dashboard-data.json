@@ -1,4 +1,56 @@
 {
+  "2015": {
+    "ano": 2015,
+    "parcial": false,
+    "total_registros": 103,
+    "periodo": {
+      "inicio": "2015-01-01",
+      "fim": "2015-12-31"
+    },
+    "bairros_atendidos": 61,
+    "por_mes": [
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 71
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 32
+      }
+    ],
+    "por_categoria": {
+      "Árvore": 62,
+      "Vistoria Técnica": 33,
+      "Avaliação de Risco": 8
+    },
+    "por_bairro": {
+      "Vale Paraíso": 7,
+      "Albuquerque": 5,
+      "Tijuca": 5,
+      "Alto": 4,
+      "Barra do Imbuí": 4,
+      "Pimenteiras": 4,
+      "Araras": 4,
+      "Caleme": 3,
+      "Quinta Lebrão": 3,
+      "Várzea": 3
+    },
+    "por_area": {
+      "1º Distrito": 90,
+      "2º Distrito": 8,
+      "3º Distrito": 5
+    },
+    "por_origem": {
+      "Protocolo Presencial": 103
+    },
+    "por_ocorrencia": {
+      "Avaliação de Risco": 62,
+      "Vistoria Técnica": 33,
+      "Vistoria para Desinterdição": 8
+    }
+  },
   "2016": {
     "ano": 2016,
     "parcial": false,
