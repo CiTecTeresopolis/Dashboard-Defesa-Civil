@@ -104,7 +104,7 @@ const Dashboard = () => {
         </div>
       )}
 
-      <div className="max-w-7xl mx-auto px-6 pt-6">
+      <div className="max-w-7xl mx-auto px-6 pt-2">
           <div class="period-note shadow-lg" >
             <a
         className="font-bold text-foreground mb-4 mt-5 text-center"
