@@ -104,12 +104,17 @@ const Dashboard = () => {
         </div>
       )}
 
-      <a
+      <div className="max-w-7xl mx-auto px-6 pt-6">
+          <div class="period-note shadow-lg" >
+            <a
         className="font-bold text-foreground mb-4 mt-5 text-center"
         href="https://dados.teresopolis.rj.gov.br/dataset/relacao-de-atendimentos"
       >
         Dados Abertos Compilados - Clique Aqui 🗎
       </a>
+          </div>
+        </div>
+     
 
       {/* Stats Cards */}
       <div className="max-w-7xl mx-auto px-6 py-6">
