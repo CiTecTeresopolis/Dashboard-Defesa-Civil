@@ -92,12 +92,6 @@ const Dashboard = () => {
               </Select>
             </div>
           </div>
-             <a
-            className="font-bold text-foreground mb-4 text-white mt-5 text-center w-full"
-            href="https://dados.teresopolis.rj.gov.br/dataset/relacao-de-atendimentos"
-          >
-            Dados Abertos Compilados - Clique Aqui 🗎
-          </a>
         </div>
       </div>
 
@@ -109,6 +103,13 @@ const Dashboard = () => {
           </div>
         </div>
       )}
+
+      <a
+        className="font-bold text-foreground mb-4 mt-5 text-center"
+        href="https://dados.teresopolis.rj.gov.br/dataset/relacao-de-atendimentos"
+      >
+        Dados Abertos Compilados - Clique Aqui 🗎
+      </a>
 
       {/* Stats Cards */}
       <div className="max-w-7xl mx-auto px-6 py-6">
