@@ -91,13 +91,13 @@ const Dashboard = () => {
                 </SelectContent>
               </Select>
             </div>
+          </div>
              <a
             className="font-bold text-foreground mb-4 text-white mt-5"
             href="https://dados.teresopolis.rj.gov.br/dataset/relacao-de-atendimentos"
           >
             Dados Abertos Compilados - Clique Aqui 🗎
           </a>
-          </div>
         </div>
       </div>
 
