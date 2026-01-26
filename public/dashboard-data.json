@@ -659,7 +659,6 @@
       "Solicitação de 2ª via de documento": 1
     }
   },
-
   "2022": {
     "ano": 2022,
     "parcial": false,
@@ -777,7 +776,6 @@
       "Rompimento de manilha": 2
     }
   },
-
  "2023": {
     "ano": 2023,
     "parcial": false,
@@ -905,7 +903,6 @@
       "Busca": 1
     }
   },
-
   "2024": {
     "ano": 2024,
     "parcial": false,
@@ -978,70 +975,126 @@
       "Dano em Via Pública": 1
     }
   },
-
-  "2025": {
+ "2025": {
     "ano": 2025,
-    "parcial": true,
-    "total_registros": 803,
+    "parcial": false,
+    "total_registros": 1745,
     "periodo": {
       "inicio": "2025-01-02",
-      "fim": "2025-06-15"
+      "fim": "2025-12-30"
     },
-    "bairros_atendidos": 100,
+    "bairros_atendidos": 111,
     "por_mes": [
-      { "Mês": 1, "Mês_Nome": "January", "Quantidade": 199 },
-      { "Mês": 2, "Mês_Nome": "February", "Quantidade": 129 },
-      { "Mês": 3, "Mês_Nome": "March", "Quantidade": 134 },
-      { "Mês": 4, "Mês_Nome": "April", "Quantidade": 273 },
-      { "Mês": 5, "Mês_Nome": "May", "Quantidade": 67 },
-      { "Mês": 6, "Mês_Nome": "June", "Quantidade": 1 }
+      {
+        "Mês": 1,
+        "Mês_Nome": "January",
+        "Quantidade": 199
+      },
+      {
+        "Mês": 2,
+        "Mês_Nome": "February",
+        "Quantidade": 129
+      },
+      {
+        "Mês": 3,
+        "Mês_Nome": "March",
+        "Quantidade": 134
+      },
+      {
+        "Mês": 4,
+        "Mês_Nome": "April",
+        "Quantidade": 273
+      },
+      {
+        "Mês": 5,
+        "Mês_Nome": "May",
+        "Quantidade": 67
+      },
+      {
+        "Mês": 6,
+        "Mês_Nome": "June",
+        "Quantidade": 127
+      },
+      {
+        "Mês": 7,
+        "Mês_Nome": "July",
+        "Quantidade": 115
+      },
+      {
+        "Mês": 8,
+        "Mês_Nome": "August",
+        "Quantidade": 137
+      },
+      {
+        "Mês": 9,
+        "Mês_Nome": "September",
+        "Quantidade": 111
+      },
+      {
+        "Mês": 10,
+        "Mês_Nome": "October",
+        "Quantidade": 142
+      },
+      {
+        "Mês": 11,
+        "Mês_Nome": "November",
+        "Quantidade": 146
+      },
+      {
+        "Mês": 12,
+        "Mês_Nome": "December",
+        "Quantidade": 165
+      }
     ],
     "por_categoria": {
-      "Árvore": 402,
-      "Avaliação de Risco": 215,
-      "Deslizamento": 81,
-      "IPTU/Energia": 30,
-      "Solicitação de 2ª via de documento": 20,
-      "Muro com risco de queda": 15,
-      "Dano em ponte": 13,
+      "Árvore": 1005,
+      "Avaliação de Risco": 428,
+      "Deslizamento": 114,
+      "IPTU/Energia": 71,
+      "Solicitação de 2ª via de documento": 36,
+      "Muro com risco de queda": 27,
+      "Dano em ponte": 16,
       "Rompimento de manilha": 11,
-      "Alagamento": 6,
-      "Infiltração": 5,
-      "Dano estrutural": 5
+      "Dano estrutural": 11,
+      "Infiltração": 8,
+      "Incêndio": 8,
+      "Alagamento": 7,
+      "Recadastramento": 3
     },
     "por_bairro": {
-      "Alto": 38,
-      "Albuquerque": 36,
-      "São Pedro": 36,
-      "Vargem Grande": 32,
-      "Meudon": 30,
-      "Parque do Imbuí": 28,
-      "Várzea": 27,
-      "Santa Cecília": 26,
-      "Barra do Imbuí": 19,
-      "Quebra Frascos": 17
+      "Albuquerque": 88,
+      "Carlos Guinle": 77,
+      "Alto": 73,
+      "Meudon": 67,
+      "Parque do Imbuí": 65,
+      "São Pedro": 62,
+      "Várzea": 57,
+      "Vargem Grande": 51,
+      "Bonsucesso": 50,
+      "Granja Guarani": 46
     },
     "por_area": {
-      "1º Distrito": 663,
-      "2º Distrito": 58,
-      "3º Distrito": 82
+      "1º Distrito": 1461,
+      "3º Distrito": 174,
+      "2º Distrito": 110
     },
     "por_origem": {
-      "Protocolo 199 Emergencial": 342,
-      "Protocolo Presencial": 273,
-      "Protocolo 1Doc/Documento": 117,
-      "Protocolo E-Ouve": 71
+      "Protocolo 199 Emergencial": 810,
+      "Protocolo Presencial": 578,
+      "Protocolo 1Doc": 229,
+      "Protocolo E-Ouve": 128
     },
     "por_ocorrencia": {
-      "Avaliação de Risco": 632,
+      "Avaliação de Risco": 1027,
+      "Vistoria Técnica": 554,
       "Deslizamento": 81,
-      "Vistoria Técnica": 30,
-      "Solicitação de 2ª via de documento": 20,
+      "Solicitação de 2ª via de documento": 36,
       "Dano em ponte": 13,
       "Rompimento de manilha": 11,
-      "Alagamento": 6,
-      "Infiltração": 5,
-      "Dano estrutural": 5
+      "Infiltração": 8,
+      "Alagamento": 7,
+      "Dano estrutural": 5,
+      "Recadastramento": 3
     }
   }
 }
