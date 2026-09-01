@@ -77,7 +77,7 @@ const StatsCards = ({ data }) => {
       highlight: true
     },
     {
-      title: 'Bairros Atendidos',
+      title: 'Localidades Atendidos',
       value: animatedValues.bairros.toLocaleString('pt-BR'),
       icon: MapPin,
       color: 'bg-green-500'
