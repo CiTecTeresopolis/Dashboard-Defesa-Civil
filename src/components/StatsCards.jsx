@@ -21,7 +21,7 @@ const StatsCards = ({ data }) => {
       total: data.total_registros,
       bairros: data.bairros_atendidos,
       pico: Math.max(...data.por_mes.map(m => m.Quantidade)),
-      emergenciais: data.por_origem['Protocolo 199 Emergencial'] || 0
+      emergenciais: (data.por_origem['Protocolo 199 Emergencial'] || 0) + (data.por_origem['Emergencial (0800)'] || 0)
     };
 
     let currentStep = 0;

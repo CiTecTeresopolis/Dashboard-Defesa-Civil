@@ -45,7 +45,7 @@ const OriginChart = ({ data }) => {
               return data.labels.map((label, i) => {
                 const value = data.datasets[0].data[i];
                 // Truncar labels muito longos
-                const shortLabel = label.length > 30 ? label.substring(9, 17) + '...' : label.substring(9, label.length);
+                const shortLabel = label;
                 return {
                   text: `${shortLabel}`,
                   fillStyle: data.datasets[0].backgroundColor[i],
