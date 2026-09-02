@@ -89,7 +89,7 @@ const StatsCards = ({ data }) => {
       color: 'bg-yellow-500'
     },
     {
-      title: 'Chamadas 199',
+      title: 'Chamadas de Emergência',
       value: animatedValues.emergenciais.toLocaleString('pt-BR'),
       icon: Phone,
       color: 'bg-red-500'
