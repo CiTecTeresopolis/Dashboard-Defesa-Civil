@@ -7,7 +7,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '.
 const Dashboard = () => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [selectedYear, setSelectedYear] = useState('2025');
+  const [selectedYear, setSelectedYear] = useState('2026');
 
   useEffect(() => {
     const loadData = async () => {
@@ -99,14 +99,14 @@ const Dashboard = () => {
       {/* Período dos dados */}
       {data.parcial && (
         <div className="max-w-7xl mx-auto px-6 pt-6">
-          <div class="period-note shadow-lg" >
+          <div className="period-note shadow-lg" >
             <strong>Período dos dados:</strong> Janeiro a Junho de {data.ano} (dados parciais - 1° semestre)
           </div>
         </div>
       )}
 
       <div className="max-w-7xl mx-auto px-6">
-          <div class="period-note shadow-lg" >
+          <div className="period-note shadow-lg" >
             <a
         className="font-bold text-foreground mb-4 mt-5 text-center"
         href="https://dados.teresopolis.rj.gov.br/dataset/relacao-de-atendimentos"

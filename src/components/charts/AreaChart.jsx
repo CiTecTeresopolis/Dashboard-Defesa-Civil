@@ -10,6 +10,8 @@ import { Pie } from 'react-chartjs-2';
 ChartJS.register(ArcElement, Tooltip, Legend);
 
 const AreaChart = ({ data }) => {
+  if (!data || typeof data !== 'object' || Object.keys(data).length === 0) return null;
+
   const cores = ['#3498db', '#2ecc71', '#f1c40f'];
 
   const chartData = {
