@@ -1244,6 +1244,11 @@
       "Alto": 30,
       "Vargem Grande": 26
     },
+    "por_area": {
+      "1º Distrito": 945,
+      "3º Distrito": 112,
+      "2º Distrito": 75
+    },
     "por_origem": {
       "Emergencial (0800)": 695,
       "Atendimento Presencial": 189,
