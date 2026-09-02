@@ -49,7 +49,7 @@ const StatsCards = ({ data }) => {
 
   if (!data) return null;
 
-  const picoMes = data.por_mes.reduce((max, mes) => 
+  const picoMes = data.por_mes.reduce((max, mes) =>
     mes.Quantidade > max.Quantidade ? mes : max
   );
 
@@ -89,7 +89,7 @@ const StatsCards = ({ data }) => {
       color: 'bg-yellow-500'
     },
     {
-      title: 'Chamadas de Emergência',
+      title: 'Emergência',
       value: animatedValues.emergenciais.toLocaleString('pt-BR'),
       icon: Phone,
       color: 'bg-red-500'
@@ -101,8 +101,8 @@ const StatsCards = ({ data }) => {
       {stats.map((stat, index) => {
         const Icon = stat.icon;
         return (
-          <Card 
-            key={index} 
+          <Card
+            key={index}
             className={`stat-card ${stat.highlight ? 'bg-blue-500 text-white' : 'bg-white'} border-0 shadow-lg`}
           >
             <CardContent className="p-6">
